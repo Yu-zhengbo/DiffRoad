@@ -107,7 +107,7 @@ We provide the baseline results and trained models available for download.
 <td align="left"><a href="configs/ade20k/semantic-segmentation/swin/diffroad_swin_base_384_bs16_80k_res512.yaml">DiffRoad</a></td>
 <td align="center">80000</td>
 <td align="center">75.19</td>
-<td align="center"><a href="">weight</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1E7xx9MqpE1aw4j-70aSMlg?pwd=7ubp">weight</a></td>
 </tr>
 
 <tr>
@@ -115,7 +115,7 @@ We provide the baseline results and trained models available for download.
 <td align="left"><a href="configs/ade20k/semantic-segmentation/swin/diffroad_swin_base_384_bs16_80k_res512.yaml">DiffRoad</a></td>
 <td align="center">80000</td>
 <td align="center">65.27</td>
-<td align="center"><a href="">weight</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1nniHV_j2zDTMCOIWaZkkIw?pwd=qh77">weight</a></td>
 </tr>
 
 <tr>
@@ -123,9 +123,7 @@ We provide the baseline results and trained models available for download.
 <td align="left"><a href="configs/ade20k/semantic-segmentation/swin/diffroad_swin_base_384_bs16_80k_res512.yaml">DiffRoad</a></td>
 <td align="center">80000</td>
 <td align="center">91.09</td>
-<td align="center"><a href="通过网盘分享的文件：model_chn6.pth
-链接: https://pan.baidu.com/s/1rRmHngMrzbxDFHwU5IaHSA?pwd=qm2q 提取码: qm2q 
---来自百度网盘超级会员v7的分享">weight</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1rRmHngMrzbxDFHwU5IaHSA?pwd=qm2q">weight</a></td>
 </tr>
 
 </table>
