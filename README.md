@@ -138,3 +138,6 @@ AS the paper is under review, we will update the citation information when the p
 SEG-Road: a segmentation network for road extraction based on transformer and CNN with connectivity structures
 ```
 
+## Reference
+
+This project is developed with reference to [DFormer](https://github.com/cp3wan/DFormer). We would like to express our gratitude to the authors of DFormer for their contributions, which served as a valuable foundation and inspiration for our work. If you find this project helpful, please also consider citing or exploring the original repository.
