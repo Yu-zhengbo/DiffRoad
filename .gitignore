@@ -1,0 +1,16 @@
+configs/ade20k/semantic-segmentation/swin/weights/*.pth
+datasets/
+deepglobe/
+chn6/
+chn6Result/
+mass/
+deepglobeResult/
+# output/
+configs/ade20k/
+configs/coco/
+configs/road/swin/weights/*.pth
+*.jpg
+*.png
+*.txt
+__pycache__
+.vscode
