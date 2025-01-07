@@ -11,6 +11,6 @@ configs/coco/
 configs/road/swin/weights/*.pth
 *.jpg
 *.png
-*.txt
+# *.txt
 __pycache__
 .vscode
