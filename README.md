@@ -98,7 +98,7 @@ We provide the baseline results and trained models available for download.
 <th valign="bottom">Dataset</th>
 <th valign="bottom">model</th>
 <th valign="bottom">interations</th>
-<th valign="bottom">IoU-Road</th>
+
 <th valign="bottom">download</th>
 <!-- TABLE BODY -->
 <!-- ROW: dformer_R50_bs16_50ep -->
@@ -106,7 +106,7 @@ We provide the baseline results and trained models available for download.
 <td align="center">DeepGlobe</td>
 <td align="left"><a href="configs/ade20k/semantic-segmentation/swin/diffroad_swin_base_384_bs16_80k_res512.yaml">DiffRoad</a></td>
 <td align="center">80000</td>
-<td align="center">75.19</td>
+
 <td align="center"><a href="https://pan.baidu.com/s/1E7xx9MqpE1aw4j-70aSMlg?pwd=7ubp">weight</a></td>
 </tr>
 
@@ -114,7 +114,7 @@ We provide the baseline results and trained models available for download.
 <td align="center">Massachusetts</td>
 <td align="left"><a href="configs/ade20k/semantic-segmentation/swin/diffroad_swin_base_384_bs16_80k_res512.yaml">DiffRoad</a></td>
 <td align="center">80000</td>
-<td align="center">65.27</td>
+
 <td align="center"><a href="https://pan.baidu.com/s/1nniHV_j2zDTMCOIWaZkkIw?pwd=qh77">weight</a></td>
 </tr>
 
@@ -122,7 +122,7 @@ We provide the baseline results and trained models available for download.
 <td align="center">CHN6-CUG</td>
 <td align="left"><a href="configs/ade20k/semantic-segmentation/swin/diffroad_swin_base_384_bs16_80k_res512.yaml">DiffRoad</a></td>
 <td align="center">80000</td>
-<td align="center">91.09</td>
+
 <td align="center"><a href="https://pan.baidu.com/s/1rRmHngMrzbxDFHwU5IaHSA?pwd=qm2q">weight</a></td>
 </tr>
 
